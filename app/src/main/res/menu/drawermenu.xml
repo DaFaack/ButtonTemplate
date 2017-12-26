@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="10dp">
+
+
+
+
+    <item android:title="App teilen"
+        android:id="@+id/teilen"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/shareimg" />
+
+    <item android:title="Mehr von PentaButtons">
+        <menu>
+            <item
+                android:id="@+id/flappyjulien"
+                android:icon="@drawable/flappyjulien"
+                android:title="Flappy Julien" />
+            <item
+                android:id="@+id/flappybibi"
+                android:icon="@drawable/flappybibi"
+                android:title="Flappy Bibi" />
+            <item
+                android:id="@+id/bibisepilierer"
+                android:icon="@drawable/bibisepilierer"
+                android:title="Bibis Epilierer" />
+            <item
+                android:id="@+id/dummefage"
+                android:icon="@drawable/dummefrageicon"
+                android:title="DummeFrage.net" />
+            <item
+                android:id="@+id/elotrix"
+                android:icon="@drawable/elotrixicon"
+                android:title="ELoTRiX Soundboard" />
+            <item
+                android:id="@+id/gronkh"
+                android:icon="@drawable/gronkhicon"
+                android:title="Gronkh Soundboard" />
+            <item
+                android:id="@+id/tanzverbot"
+                android:icon="@drawable/tanzverboticon"
+                android:title="Tanzverbot Soundboard" />
+            <item
+                android:id="@+id/merkel"
+                android:icon="@drawable/angelaicon"
+                android:title="Angela Merkel Soundboard" />
+            <item
+                android:id="@+id/freshtorge"
+                android:icon="@drawable/freshtorgeicon"
+                android:title="Freshtorge Soundboard" />
+            <item
+                android:id="@+id/miimii"
+                android:icon="@drawable/miimiiicon"
+                android:title="Mii Mii Soundboard" />
+            <item
+                android:id="@+id/simondesue"
+                android:icon="@drawable/simonicon"
+                android:title="Simon Desue Soundboard" />
+
+        </menu>
+    </item>
+
+
+    <item android:title="Kontakt">
+        <menu>
+            <item
+                android:id="@+id/instagram"
+                android:icon="@drawable/instaicon"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/email"
+                android:icon="@drawable/emailicon"
+                android:title="E-Mail schreiben" />
+
+        </menu>
+    </item>
+
+</menu>
