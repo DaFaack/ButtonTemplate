@@ -30,12 +30,10 @@ public class MainActivity extends AppCompatActivity {
     FragmentTransaction mFragmentTransaction;
     public InterstitialAd mInterstitialAd;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
 
 
         AdView mAdView = (AdView) findViewById(R.id.adView);
@@ -50,6 +48,9 @@ public class MainActivity extends AppCompatActivity {
                 Environment.getExternalStorageState())) {
 
             if (!FILES_PATH.mkdirs()) {
+
+
+                Toast.makeText(MainActivity.this,"Sound failed to Save.s", Toast.LENGTH_SHORT).show();
 
                 Log.w("error", "Could not create " + FILES_PATH);
 

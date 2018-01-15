@@ -2,8 +2,8 @@
     <string name="app_name">Button Template</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
     <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
-    <string name="package_name">com.pentasounds.soundboardtemplatepro</string>
-    <string name="foldername">templatefolder</string>
+    <string name="package_name">com.aaron.waller.buttontemplate</string>
+    <string name="foldername">buttontemplate</string>
 
 
 </resources>
