@@ -32,7 +32,7 @@ public class Tab2 extends Fragment {
             @Override
             public void onClick(View view) {
 
-                String url = "https://instagram.com/_u/coding.empire/?r=sun1";
+                String url = "https://redirection.lima-city.de/links/instagram.html";
 
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_VIEW);

@@ -6,63 +6,230 @@
 
 
 
-    <item android:title="App teilen"
+    <item android:title="Share app"
         android:id="@+id/teilen"
         android:layout_marginTop="10dp"
         android:icon="@drawable/shareimg" />
 
-    <item android:title="Mehr von PentaButtons">
+    <item android:title="Suggest a sound"
+        android:id="@+id/vorschlagen"
+        android:icon="@drawable/idea" />
+
+    <item android:title="More buttons from PentaButtons">
         <menu>
             <item
-                android:id="@+id/flappyjulien"
-                android:icon="@drawable/flappyjulien"
-                android:title="Flappy Julien" />
+                android:id="@+id/googleplay"
+                android:icon="@drawable/googleplay"
+                android:title="Collection of all Buttons"/>
+
+
             <item
-                android:id="@+id/flappybibi"
-                android:icon="@drawable/flappybibi"
-                android:title="Flappy Bibi" />
+                android:id="@+id/allahuakbar"
+                android:icon="@drawable/allahuakbar"
+                android:title="Allahu Akbar"/>
+
             <item
-                android:id="@+id/bibisepilierer"
-                android:icon="@drawable/bibisepilierer"
-                android:title="Bibis Epilierer" />
+                android:id="@+id/areyousureaboutthat"
+                android:icon="@drawable/areyousureaboutthat"
+                android:title="Are You Sure About That" />
             <item
-                android:id="@+id/dummefage"
-                android:icon="@drawable/dummefrageicon"
-                android:title="DummeFrage.net" />
+                android:id="@+id/bestcryever"
+                android:icon="@drawable/bestcryever"
+                android:title="Best Cry Ever" />
             <item
-                android:id="@+id/elotrix"
-                android:icon="@drawable/elotrixicon"
-                android:title="ELoTRiX Soundboard" />
+                android:id="@+id/boomheadshot"
+                android:icon="@drawable/boomheadshot"
+                android:title="Boom Headshot" />
             <item
-                android:id="@+id/gronkh"
-                android:icon="@drawable/gronkhicon"
-                android:title="Gronkh Soundboard" />
+                android:id="@+id/crackkidyaa"
+                android:icon="@drawable/crackkidyaa"
+                android:title="Crack Kid Yaa" />
             <item
-                android:id="@+id/tanzverbot"
-                android:icon="@drawable/tanzverboticon"
-                android:title="Tanzverbot Soundboard" />
+                android:id="@+id/damndaniel"
+                android:icon="@drawable/damndaniel"
+                android:title="Damn Daniel" />
             <item
-                android:id="@+id/merkel"
-                android:icon="@drawable/angelaicon"
-                android:title="Angela Merkel Soundboard" />
+                android:id="@+id/deeznutz"
+                android:icon="@drawable/deeznutz"
+                android:title="Deez Nutz" />
             <item
-                android:id="@+id/freshtorge"
-                android:icon="@drawable/freshtorgeicon"
-                android:title="Freshtorge Soundboard" />
+                android:id="@+id/dundundun"
+                android:icon="@drawable/dundundun"
+                android:title="Dun Dun Dun" />
             <item
-                android:id="@+id/miimii"
-                android:icon="@drawable/miimiiicon"
-                android:title="Mii Mii Soundboard" />
+                android:id="@+id/easports"
+                android:icon="@drawable/easports"
+                android:title="EA Sports – it‘s in the game" />
             <item
-                android:id="@+id/simondesue"
-                android:icon="@drawable/simonicon"
-                android:title="Simon Desue Soundboard" />
+                android:id="@+id/esketit"
+                android:icon="@drawable/esketit"
+                android:title="Esketit" />
+            <item
+                android:id="@+id/fckherrightinthepssy"
+                android:icon="@drawable/fckherrightinthepssy"
+                android:title="F#ck Her Right In The P#ssy" />
+            <item
+                android:id="@+id/fatality"
+                android:icon="@drawable/fatality"
+                android:title="Fatality" />
+            <item
+                android:id="@+id/freshavocado"
+                android:icon="@drawable/freshavocado"
+                android:title="FR E SH A VOCA DO" />
+            <item
+                android:id="@+id/ghostbusters"
+                android:icon="@drawable/ghostbusters"
+                android:title="Ghost Busters" />
+            <item
+                android:id="@+id/hagay"
+                android:icon="@drawable/hagay"
+                android:title="Ha Gay" />
+            <item
+                android:id="@+id/helloadele"
+                android:icon="@drawable/helloadele"
+                android:title="Hello Adele" />
+            <item
+                android:id="@+id/hellomotherfcker"
+                android:icon="@drawable/hellomotherfcker"
+                android:title="Hello Motherf#cker" />
+            <item
+                android:id="@+id/icantbelieveyouvedonethis"
+                android:icon="@drawable/icantbelieveyouvedonethis"
+                android:title="I Can‘t Believe You‘ve Done This" />
+            <item
+                android:id="@+id/iliketurtles"
+                android:icon="@drawable/iliketurtles"
+                android:title="I Like Turtles" />
+            <item
+                android:id="@+id/iloveyoubtch"
+                android:icon="@drawable/iloveyoubtch"
+                android:title="I Love You B#tch" />
+            <item
+                android:id="@+id/imafidgetspinner"
+                android:icon="@drawable/imafidgetspinner"
+                android:title="I‘m A Fidget Spinner" />
+            <item
+                android:id="@+id/imgay"
+                android:icon="@drawable/imgay"
+                android:title="I‘m Gay" />
+            <item
+                android:id="@+id/itsamemario"
+                android:icon="@drawable/itsamemario"
+                android:title="It‘s A Me, Mario!" />
+            <item
+                android:id="@+id/johncena"
+                android:icon="@drawable/johncena"
+                android:title="John Cena" />
+            <item
+                android:id="@+id/mansnothot"
+                android:icon="@drawable/mansnothot"
+                android:title="Mans Not Hot" />
+            <item
+                android:id="@+id/mlgairhorn"
+                android:icon="@drawable/mlgairhorn"
+                android:title="MLG Airhorn" />
+            <item
+                android:id="@+id/momgetthecamera"
+                android:icon="@drawable/momgetthecamera"
+                android:title="Mom, Get The Camera" />
+            <item
+                android:id="@+id/movebtchgetouttheway"
+                android:icon="@drawable/movebtchgetouttheway"
+                android:title="Move B#tch Get Out The Way" />
+            <item
+                android:id="@+id/mynameisjeff"
+                android:icon="@drawable/mynameisjeff"
+                android:title="My Name Is Jeff" />
+            <item
+                android:id="@+id/nothisispatrick"
+                android:icon="@drawable/nothisispatrick"
+                android:title="No, This Is Patrick" />
+            <item
+                android:id="@+id/ohbabyatriple"
+                android:icon="@drawable/ohbabyatriple"
+                android:title="Oh Baby A Triple" />
+            <item
+                android:id="@+id/oke"
+                android:icon="@drawable/oke"
+                android:title="Oke" />
+            <item
+                android:id="@+id/pandawraa"
+                android:icon="@drawable/pandawraa"
+                android:title="Panda Wraa" />
+            <item
+                android:id="@+id/patricia"
+                android:icon="@drawable/patricia"
+                android:title="PATRICIA" />
+            <item
+                android:id="@+id/petergriffinlaugh"
+                android:icon="@drawable/petergriffinlaugh"
+                android:title="Peter Griffin Laugh" />
+            <item
+                android:id="@+id/pikapikapikatchu"
+                android:icon="@drawable/pikapikapikatchu"
+                android:title="Pika Pika Pikatchu" />
+            <item
+                android:id="@+id/pinkguystfu"
+                android:icon="@drawable/pinkguystfu"
+                android:title="Pink Guy STFU" />
+            <item
+                android:id="@+id/shootingstars"
+                android:icon="@drawable/shootingstars"
+                android:title="Shooting Stars" />
+            <item
+                android:id="@+id/smoketheweedeveryday"
+                android:icon="@drawable/smoketheweedeveryday"
+                android:title="Smoke The Weed Everyday" />
+            <item
+                android:id="@+id/stopitgetsomehelp"
+                android:icon="@drawable/stopitgetsomehelp"
+                android:title="Stop It, Get Some Help" />
+            <item
+                android:id="@+id/thetinggoskrra"
+                android:icon="@drawable/thetinggoskrra"
+                android:title="The Ting Go Skrra" />
+            <item
+                android:id="@+id/tomthetrain"
+                android:icon="@drawable/tomthetrain"
+                android:title="Tom The Train" />
+            <item
+                android:id="@+id/wasted"
+                android:icon="@drawable/wasted"
+                android:title="Wasted" />
+            <item
+                android:id="@+id/wazzap"
+                android:icon="@drawable/wazzap"
+                android:title="WAZAAP" />
+            <item
+                android:id="@+id/whatisgoingoninsidetheirhead"
+                android:icon="@drawable/whatisgoingoninsidetheirhead"
+                android:title="What Is Going On Inside Their Head" />
+            <item
+                android:id="@+id/whatyouwantsomedck"
+                android:icon="@drawable/whatyouwantsomedck"
+                android:title="What You Want Some D#ck" />
+            <item
+                android:id="@+id/whyyoualwayslying"
+                android:icon="@drawable/whyyoualwayslying"
+                android:title="Why You Always Lying" />
+            <item
+                android:id="@+id/wtfboom"
+                android:icon="@drawable/wtfboom"
+                android:title="WTF Boom" />
+            <item
+                android:id="@+id/youjusthavetosaythatyourefine"
+                android:icon="@drawable/youjusthavetosaythatyourefine"
+                android:title="You Just Have To Say That You're Fine" />
+            <item
+                android:id="@+id/youshallnotpass"
+                android:icon="@drawable/youshallnotpass"
+                android:title="YOU SHALL NOT PASS" />
 
         </menu>
     </item>
 
 
-    <item android:title="Kontakt">
+    <item android:title="Contact">
         <menu>
             <item
                 android:id="@+id/instagram"
@@ -70,8 +237,12 @@
                 android:title="Instagram" />
             <item
                 android:id="@+id/email"
-                android:icon="@drawable/emailicon"
-                android:title="E-Mail schreiben" />
+                android:icon="@drawable/email"
+                android:title="E-Mail" />
+            <item
+                android:id="@+id/paypal"
+                android:icon="@drawable/paypal"
+                android:title="Make a donation"/>
 
         </menu>
     </item>
