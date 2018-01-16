@@ -49,9 +49,6 @@ public class MainActivity extends AppCompatActivity {
 
             if (!FILES_PATH.mkdirs()) {
 
-
-                Toast.makeText(MainActivity.this,"Sound failed to Save.s", Toast.LENGTH_SHORT).show();
-
                 Log.w("error", "Could not create " + FILES_PATH);
 
             }
